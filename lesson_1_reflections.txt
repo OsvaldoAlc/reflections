@@ -1,0 +1,6 @@
+En 2011, al entregar los números de NIP de los teléfonos 
+celulares de Miguel y Omar Treviño Morales –los entonces líderes del cártel de Los Zetas 
+conocidos como El Z40 y El Z42– a integrantes de la Policía Federal (PF) mexicana, la 
+Agencia Antidrogas estadunidense (DEA, por sus siglas en inglés) cometió un grave error.
+
+Este va a ser mi primer commit.
